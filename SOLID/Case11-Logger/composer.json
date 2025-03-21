@@ -1,0 +1,9 @@
+{
+  "name": "LoggerApplication",
+  "autoload": {
+    "psr-4": {
+      "LoggerApp\\": "src/"
+    }
+  },
+  "require": {}
+}
