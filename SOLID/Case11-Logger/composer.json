@@ -1,5 +1,6 @@
 {
-  "name": "LoggerApplication",
+  "name": "kzaman/logger-application",
+  "description": "A simple logger application",
   "autoload": {
     "psr-4": {
       "LoggerApp\\": "src/"
