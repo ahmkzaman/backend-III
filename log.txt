@@ -1,0 +1,7 @@
+{"card_number":"1234567890123456","expiry":"12\/25","cvv":"123","type":"credit_card","success":false,"error":"Payment processing failed","time":"2025-03-25 06:02:36"}
+{"card_number":"1234567890123456","expiry":"12-25","cvv":"123","type":"credit_card","success":true,"error":[],"message":"Payment processed successfully","time":"2025-03-25 06:03:26"}
+{"card_number":"1234567890123456","expiry":"12-25","cvv":"123","amount":1000,"type":"credit_card","success":false,"error":"Payment processing failed","time":"2025-03-25 06:03:58"}
+{"card_number":"1234567890123456","expiry":"12\/25","cvv":"123","amount":1000,"type":"credit_card","success":true,"error":[],"message":"Payment processed successfully","time":"2025-03-25 06:04:15"}
+{"card_number":"1234567890123456","expiry":"12\\\/25","cvv":"123","amount":1000,"type":"credit_card","success":false,"error":"Payment processing failed","time":"2025-03-25 06:04:39"}
+{"card_number":"1234567890123456","expiry":"12\/25","cvv":"123","amount":1000,"type":"credit_card","success":false,"error":"Payment processing failed","time":"2025-03-25 06:04:53"}
+{"card_number":"1234567890123456","expiry":"12\/25","cvv":"123","amount":1000,"type":"credit_card","success":true,"message":"Payment processed successfully"}
