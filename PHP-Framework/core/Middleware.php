@@ -15,5 +15,5 @@ abstract class Middleware
      * @param array $request The request data.
      * @return bool True if the request should proceed, false otherwise.
      */
-    abstract public function handle(array $request): void;
+    abstract public function handle(): void;
 }
